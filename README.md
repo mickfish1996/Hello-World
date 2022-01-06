@@ -14,9 +14,3 @@ I coded this to practice using python in my IDE and to practice using my Configu
 * Visual Studio Code
 * Python 10
 * Git
-
-# Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
